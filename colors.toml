@@ -1,0 +1,40 @@
+# Mecha Green Light — sun-bleached olive, sand and the amber visor.
+# The daylight counterpart to the dark Mecha Green theme.
+
+mode = "light"
+
+accent = "#7d5200"          # dark amber, readable on sand
+selection = "#cdc9a4"       # faded olive highlight
+selection_background = "#d8d4b0"
+selection_foreground = "#1a2010"
+muted = "#62684a"           # sage grey
+
+background = "#e9e5cb"      # warm sand
+dark_background = "#dfdcc0"
+darker_background = "#d3d0b3"
+lighter_background = "#f5f2df"
+
+foreground = "#2b321a"      # dark olive ink
+dark_foreground = "#5f6548"
+light_foreground = "#4a5231"
+bright_foreground = "#1a2010"
+
+red = "#9c3f2d"             # rust
+yellow = "#8a5a00"          # dark gold
+orange = "#a05212"          # burnt amber
+green = "#4f6428"           # olive green
+cyan = "#2f6a5e"            # deep patina
+blue = "#35606a"            # steel teal
+magenta = "#7a4b58"         # dried mauve
+brown = "#6b4a28"           # leather
+
+bright_red = "#b84a34"
+bright_yellow = "#9c7300"
+bright_green = "#5f7a32"
+bright_cyan = "#3d7f70"
+bright_blue = "#437680"
+bright_magenta = "#91606c"
+
+# Bronze-to-olive window border.
+hyprland_active_border = "rgba(7d5200ee) rgba(4f6428ee) 45deg"
+hyprland_inactive_border = "rgba(62684aaa)"
