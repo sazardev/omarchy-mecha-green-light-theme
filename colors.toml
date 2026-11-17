@@ -5,8 +5,6 @@ mode = "light"
 
 accent = "#7d5200"          # dark amber, readable on sand
 selection = "#cdc9a4"       # faded olive highlight
-selection_background = "#d8d4b0"
-selection_foreground = "#1a2010"
 muted = "#62684a"           # sage grey
 
 background = "#e9e5cb"      # warm sand
