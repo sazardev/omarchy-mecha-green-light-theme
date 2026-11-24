@@ -41,29 +41,16 @@ The theme sets `mode = "light"`, so Omarchy pairs it with light mode across
 apps. It styles the bar, menus, notifications, launcher, OSD, lock screen,
 btop, Chromium, Neovim, Helix and the terminal.
 
-## Wallpapers
+## Wallpaper
 
-Eight original stills plus two live loops, licensed MIT together with the theme:
+One original flat wallpaper, licensed MIT together with the theme:
 
 | | |
 |---|---|
-| ![](backgrounds/8-mecha-helmet-light.webp)<br>**Mecha helmet** — sand Spartan helmet and bronze visor | ![](backgrounds/9-topographic-light.webp)<br>**Topographic HUD** — sand contours and a bronze reticle |
-| ![](backgrounds/10-keyboard-light.webp)<br>**MCHOSE Ace 75** — product-style keyboard render | ![](backgrounds/11-switch-blueprint-light.webp)<br>**Hall Effect switch** — cross-section and top view |
-| ![](backgrounds/12-pcb-blueprint-light.webp)<br>**PCB blueprint** — 75% keyboard matrix | ![](backgrounds/13-radar-light.webp)<br>**Tactical radar** — contacts and threat readout |
-| ![](backgrounds/14-helmet-blueprint-light.webp)<br>**Helmet schematic** — MJOLNIR dimensions | ![](backgrounds/15-crate-light.webp)<br>**Supply crate** — stencil and hazard strip |
+| ![](backgrounds/0-topographic-light.webp)<br>**Topographic Wave** — flowing olive contours and Geist typography on the solid sand background |
 
-### Live wallpapers
-
-| File | Loop |
-|---|---|
-| `live-helmet.mp4` | 12 s command-feed push over the Spartan helmet with scanlines, HUD frame and grain |
-| `live-radar.mp4` | 12 s rotating radar sweep with contact blips |
-
-Both are 2560×1440 H.264, 30 fps, silent and loop seamlessly. Omarchy's OWE
-renderer plays them natively with hardware decoding, and
-`omarchy theme bg next` cycles them with the stills.
-
-Switch them with `omarchy theme bg next`, or pick one from the theme folder.
+`0-topographic-light.webp` is 2560×1440 and sorts first, so it remains the
+default even if you add personal wallpapers. No live loops are bundled.
 
 ## Included
 
@@ -74,8 +61,7 @@ Switch them with `omarchy theme bg next`, or pick one from the theme folder.
   `keyboard.rgb`.
 - `unlock.png` and `preview-unlock.png` — bronze Omarchy mark on sand.
 - `preview.png` — 16:9 theme preview.
-- `backgrounds/` — the eight stills above plus `live-helmet.mp4` and
-  `live-radar.mp4`.
+- `backgrounds/0-topographic-light.webp` — the single default flat wallpaper.
 
 ## Full project
 
