@@ -16,7 +16,7 @@ omarchy theme set "Mecha Green Light"
 - `colors.toml` and `shell.toml` for the complete light theme.
 - btop, Chromium, icon and keyboard colour configuration.
 - Seven native 3840×2160 (4K) lossless WebP wallpapers.
-- Six clean 8-second native 4K H.264 live wallpaper loops.
+- Six clean 8-second native 4K 60 fps H.264 live wallpaper loops.
 - `0-topographic-light.webp` as the default.
 
 ## Wallpapers
